@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EditableComboBoxBug (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EditableComboBoxBug (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
